@@ -1,0 +1,3 @@
+A primeira imagem, o brilho dela está muito alto, a escala de cinza está muito alta. 
+
+A segunda imagem, está sem saturação e a escala de cinza está muito baixa.
